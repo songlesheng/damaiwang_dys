@@ -5,7 +5,7 @@
 """
 reference link : https://github.com/MakiNaruto/Automatic_ticket_purchase
 get more details in readme.md
-email : email : 18020090018@pop.zjgsu.edu.cn
+email : 18020090018@pop.zjgsu.edu.cn
 """
 import os
 import re
